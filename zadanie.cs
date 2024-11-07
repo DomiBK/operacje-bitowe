@@ -1,5 +1,3 @@
-using System;
-
 class BitOperations
 {
     public static void Main(string[] args)
